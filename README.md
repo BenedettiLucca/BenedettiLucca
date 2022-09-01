@@ -1,6 +1,6 @@
 Hi, I’m Lucca Benedetti
 
-I’m interested in Ethereum, DeFi, Rollups, Linux and free software
+I’m interested in Ethereum, DeFi, Rollups, Linux and free software.
 
 I’m currently learning Python, JavaScript and solidity.
 
